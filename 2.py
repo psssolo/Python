@@ -1,3 +1,7 @@
+"""
+This program takes a Tic-Tac-Toe game pattern (9 chars of [xo.]), and checks if there is a winner.
+"""
+
 import re
 
 
