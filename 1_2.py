@@ -8,4 +8,5 @@ c = int(input("Please select number #3:"))
 
 if a + b == c or a + c == b or b + c == a:
     print("true")
-else: print("false")
+else:
+    print("false")
